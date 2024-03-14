@@ -1,0 +1,1 @@
+var json_MotorShed_13 = {"type":"FeatureCollection","name":"MotorShed_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ThoduName":"Enamavu Thodu"},"geometry":{"type":"Point","coordinates":[76.091779965086516,10.489400911432037]}}]}
